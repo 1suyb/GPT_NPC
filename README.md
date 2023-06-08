@@ -13,4 +13,4 @@ Whisper-base, finetuning
 OpenAI API - GPT3.5 turbo
 
 ### 시연영상
-[![Video Label](http://img.youtuve.com/vi/w72DnWwqslQ/0.jpg)](https://youtu.be/w72DnWwqslQ)
+![AI융합프로젝트영상](https://github.com/1suyb/GPT_NPC/assets/89519957/857f063d-8f8b-4532-8a02-228d4bbc5e3b)
