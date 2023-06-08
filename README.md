@@ -31,9 +31,9 @@ F키를 누르면서 이야기하고 말이 끝나면 F키를 뗌.
 기다리면 NPC의 반응을 확인가능.
 ```
 
-### 종속성
+### 권장사항
 transformer와 openai api사용으로인한 가상환경 사용권장.
-필요라이브러리 : numpy, openai, transformers, torch
+
 
 ### 시연영상
 ![AI융합프로젝트영상](https://github.com/1suyb/GPT_NPC/assets/89519957/857f063d-8f8b-4532-8a02-228d4bbc5e3b)
