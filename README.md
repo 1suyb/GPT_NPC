@@ -14,6 +14,7 @@
 - OpenAI API - GPT3.5 turbo
 
 ### 사용법
+```
 - server 폴더에 pyserver 파일의 port를 자신에 맞게 수정
 - Model파일의 whisper 모델 path도 알맞게 수정
 
@@ -28,6 +29,7 @@
 - F키를 누르면서 이야기하고 말이 끝나면 F키를 뗌.
 
 - 기다리면 NPC의 반응을 확인가능.
+```
 
 ### 종속성
 transformer와 openai api사용으로인한 가상환경 사용권장.
